@@ -1,1 +1,1 @@
-# Template for a Blazor WASM + Azure Function project to use with Azure Static Web Apps
+# Blazor WASM + Azure Function Azure Static Web Apps
